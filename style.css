@@ -1,0 +1,17 @@
+.kidsunited h4 {
+    border-bottom: 1px solid white;
+}
+
+.kidsunited img {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+.kidsunited p {
+    margin-top: 10px;
+}
+
+.kidsunited {
+    margin-top: 13px;
+}
